@@ -1,6 +1,8 @@
 ## Hello SciGeeks 🚀
 
+I'm dciangot, your host, and I'm a physicist specialized in software architectures for large scale data analysis.
 
+From machine learning to data visualization, I'll take you through step-by-step tutorials and demonstrations that cover best practices for reproducibility and data management with cutting-edge technologies. 
 
 
 <!--
